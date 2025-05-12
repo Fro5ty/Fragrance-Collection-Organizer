@@ -2,7 +2,7 @@
 
 A desktop app built with Python and PySide6 for organizing your fragrance collection.
 
-![Application Screenshot](screenshots/main_view.png)
+![Header](https://i.imgur.com/rFVv2zI.png)
 
 ## Features
 
@@ -45,19 +45,9 @@ A desktop app built with Python and PySide6 for organizing your fragrance collec
 - Theme choice is saved between sessions
 - Export your collection to CSV with flexible field selection
 
-### Example Screenshots
+### Themes
 
-#### Main View
-![Main View](screenshots/main_view.png)
-
-#### Add/Edit Fragrance
-![Add/Edit Fragrance](screenshots/add_edit.png)
-
-#### Filter Panel
-![Filter Panel](screenshots/filters.png)
-
-#### Collection Stats
-![Stats](screenshots/stats.png)
+![Themes](https://i.imgur.com/rySPa1L.png)
 
 ## ⚠️ Disclaimer on Manual Entry
 
@@ -70,7 +60,7 @@ All your collection info is stored locally in a SQLite database (`fragrances.db`
 ## 🔗 Download
 
 Download a pre-built `.exe` or the full source:
-[Download the latest release here](https://github.com/yourusername/your-repo/releases/latest)
+[Download the latest release here](https://github.com/Fro5ty/Fragrance-Collection-Organizer/releases/latest)
 
 Both archives include the license file. If using the `.exe`, just extract and run.
 
