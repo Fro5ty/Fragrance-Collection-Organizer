@@ -1,0 +1,3 @@
+PySide6
+sqlite3-plus
+pyinstaller 
